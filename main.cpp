@@ -9,6 +9,7 @@ int main()
 };
 void test01()
 {
+  
     solider sanduo("XuSanDuo");
     sanduo.addGun(new Gun("AK47"));
     sanduo.addBulletToGun(20);
