@@ -19,5 +19,6 @@ main
 *.d
 
 #.vscode/
+.cache
 .idea/
 .DS_Store
