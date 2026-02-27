@@ -1,5 +1,6 @@
 #include"gun.h"
 #include"solider.h"
+#include<iostream>
 void test01();
 int main()
 {
